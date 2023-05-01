@@ -1,6 +1,4 @@
-# Fatimah Meraj
-
-### MSc Artificial Intelligence Student
+# MSc Artificial Intelligence Student
 
 ### Welcome!
 
