@@ -1,1 +1,6 @@
-# merajf.github.io
+# Fatimah Meraj
+
+### MSc Artificial Intelligence Student
+
+### Welcome!
+
